@@ -8,6 +8,7 @@ Specify common cursors used by [xtd::forms::cursors](https://github.com/gammasof
 
 | Name | Windows | Gtk | macos |
 |---|:-:|:-:|:-:|
+| app_starting | ![picture_win](common/app_starting_w.png) | ![picture_gtk](common/app_starting_g.png) | ![picture_mac](common/app_starting_m.png) |
 | arrow | ![picture_win](common/arrow_w.png) | ![picture_gtk](common/arrow_g.png) | ![picture_mac](common/arrow_m.png) |
 | closed_hand | ![picture_win](common/closed_hand_w.png) | ![picture_gtk](common/closed_hand_g.png) | ![picture_mac](common/closed_hand_m.png) |
 | contextual_menu | ![picture_win](common/contextual_menu_w.png) | ![picture_gtk](common/contextual_menu_g.png) | ![picture_mac](common/contextual_menu_m.png) |
