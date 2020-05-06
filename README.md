@@ -42,6 +42,7 @@ Specify common cursors used by [xtd::forms::cursors](https://github.com/gammasof
 | up_arrow | ![picture_win](common/up_arrow_w.png) | ![picture_gtk](common/up_arrow_g.png) | ![picture_mac](common/up_arrow_m.png) |
 | vibeam | ![picture_win](common/vibeam_w.png) | ![picture_gtk](common/vibeam_g.png) | ![picture_mac](common/vibeam_m.png) |
 | vsplit | ![picture_win](common/vsplit_w.png) | ![picture_gtk](common/vsplit_g.png) | ![picture_mac](common/vsplit_m.png) |
+| wait | ![picture_win](common/wait_w.png) | ![picture_gtk](common/wait_g.png) | ![picture_mac](common/wait_m.png) |
 
 ## links
 
