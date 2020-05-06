@@ -45,6 +45,8 @@ Specify common cursors used by [xtd::forms::cursors](https://github.com/gammasof
 | Vertical I beam | ![picture_win](common/vibeam_w.png) | ![picture_gtk](common/vibeam_g.png) | ![picture_mac](common/vibeam_m.png) |
 | Vertical split | ![picture_win](common/vsplit_w.png) | ![picture_gtk](common/vsplit_g.png) | ![picture_mac](common/vsplit_m.png) |
 | Wait | ![picture_win](common/wait_w.png) | ![picture_gtk](common/wait_g.png) | ![picture_mac](common/wait_m.png) |
+| Zoom in | ![picture_win](common/zoom_in_w.png) | ![picture_gtk](common/zoom_in_g.png) | ![picture_mac](common/zoom_in_m.png) |
+| Zoom out | ![picture_win](common/zoom_out_w.png) | ![picture_gtk](common/zoom_out_g.png) | ![picture_mac](common/zoom_out_m.png) |
 
 ## links
 
