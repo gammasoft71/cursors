@@ -14,6 +14,7 @@ Specify common cursors used by [xtd::forms::cursors](https://github.com/gammasof
 | contextual_menu | ![picture_win](common/contextual_menu_w.png) | ![picture_gtk](common/contextual_menu_g.png) | ![picture_mac](common/contextual_menu_m.png) |
 | cell | ![picture_win](common/cell_w.png) | ![picture_gtk](common/cell_g.png) | ![picture_mac](common/cell_m.png) |
 | cross | ![picture_win](common/cross_w.png) | ![picture_gtk](common/cross_g.png) | ![picture_mac](common/cross_m.png) |
+| default | ![picture_win](common/arrow_w.png) | ![picture_gtk](common/arrow_g.png) | ![picture_mac](common/arrow_m.png) |
 | disappearing_item | ![picture_win](common/disappearing_item_w.png) | ![picture_gtk](common/disappearing_item_g.png) | ![picture_mac](common/disappearing_item_m.png) |
 | drag_copy | ![picture_win](common/drag_copy_w.png) | ![picture_gtk](common/drag_copy_g.png) | ![picture_mac](common/drag_copy_m.png) |
 | drag_link | ![picture_win](common/drag_link_w.png) | ![picture_gtk](common/drag_link_g.png) | ![picture_mac](common/drag_link_m.png) |
