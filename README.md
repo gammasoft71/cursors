@@ -4,7 +4,7 @@ Contains Windows, macos and gtk cursors.
 
 ## common
 
-Specify common cursors used by [xtd::forms::cursors](https://github.com/gammasoft71/xtd_forms) class.
+Specify common cursors used by [xtd::forms::cursors](https://github.com/gammasoft71/xtd) class.
 
 | Name | Windows | Gtk | macos |
 |---|:-:|:-:|:-:|
