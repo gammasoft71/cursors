@@ -50,7 +50,7 @@ Specify common cursors used by [xtd::forms::cursors](https://github.com/gammasof
 
 ## links
 
-[xtd::forms cursors](https://codedocs.xyz/gammasoft71/xtd_forms/classxtd_1_1forms_1_1cursors.html)
+[xtd::forms cursors](https://codedocs.xyz/gammasoft71/xtd/classxtd_1_1forms_1_1cursors.html)
 
 [Appkit NSCursor](https://developer.apple.com/documentation/appkit/nscursor)
 
