@@ -60,4 +60,6 @@ Specify common cursors used by [xtd::forms::cursors](https://github.com/gammasof
 
 [Win32 design guidelines Mouse and Pointers](https://docs.microsoft.com/en-us/windows/win32/uxguide/inter-mouse)
 
+<!---
 maocos X System cursors location : file://127.0.0.1/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/Resources/cursors
+--->
